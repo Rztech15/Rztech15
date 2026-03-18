@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=650&lines=Hi+there%2C+My self+Muhammad+Ramzan!;Aspiring+Data+Analyst;Excel+Dashboards+%7C+Data+Visualization;Student+at+BZU+Multan+%7C+CASPAM;Passionate+about+Data+and+Technology" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=650&lines=Hi+there%2C+My Self+Muhammad+Ramzan!;Aspiring+Data+Analyst;Excel+Dashboards+%7C+Data+Visualization;Student+at+BZU+Multan+%7C+CASPAM;Passionate+about+Data+and+Technology" />
 </p>
 
 <p align="center">
