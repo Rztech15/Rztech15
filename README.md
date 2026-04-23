@@ -11,7 +11,7 @@
 # Hi there 👋 I'm Muhammad Ramzan
 
 Welcome to my GitHub profile!  
-I am a **BS Mathematics student at CASPAM, Bahauddin Zakariya University Multan** Passionate about **data analysis, dashboards, and technology**.
+I am a **BS Mathematics student at CASPAM, Bahauddin Zakariya University Multan**, Passionate about **data analysis, dashboards, and technology**.
 
 I enjoy transforming raw data into **clear insights and meaningful visualizations**.
 
